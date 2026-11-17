@@ -1,0 +1,5 @@
+# This repository holds release artifacts only.
+# Never commit source code, docs, configs, keys, or anything from the private repo.
+*
+!.gitignore
+!README.md
